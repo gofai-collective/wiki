@@ -1,0 +1,2 @@
+# wiki
+Collection of topics
