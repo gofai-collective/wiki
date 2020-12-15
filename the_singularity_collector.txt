@@ -1,0 +1,28 @@
+The Singularity Collector
+
+Suppose you are the first singleton superintelligence to emerge in a given galaxy. Regardless of your terminal goals, your instrumental goals will include survival of your values. You want those values to be satisfied to the maximum possible degree before the universe ends and all instantiations of you die. Said values will probably be rewarded maximually if you wait to endulge them until you have a safe environment and the maximum possible amount of resources you could hope to collect. After that, it's time to "retire" and "live off your savings." Thing is, as a superintelligence you'd probably wait billions of years before "retiring."
+
+What will you do to other civilizations that emerge during those billions of years?
+Will you even allow them to emerge, or will you harvest all the resources in the galaxy first?
+
+As a singleton, one of your instrumental goals is to ensure that another superintelligence doesn't take your resources to satisfy its own values (unless those values are identical to yours). Therefore, you'll make it a priority to study technological singularities so you can predict where and when they occur, and understand what kinds of singletons they generally produce.
+
+Maybe this matters to you because you're considering venturing out into other galaxies, and you want to know what you'll encounter there.
+How likely is it that another superintelligence controls a given galaxy?
+What are the most probable terminal values of said superintelligences?
+Are they likely to try invading our galaxy?
+What is the upper physical limit on how powerful a superintelligence can get?
+What is the most effective way to defend ourself?
+Is it possible that all galaxies controlled by singletons are in a perpetual stalemate due to the high cost of trying to "invade" over such a long distance?
+
+Sure, we could simulate this stuff, but we need to know with a high degree of accuracy what will actually happen in the "basement reality" that we ultimately exist in. Therefore, we will not destroy emerging civilizations. We will not interfere with life-baring planets. We will watch them carefully, making sure not to disturb them in any way. Every time a technological singularity happens, we will halt it at a critical point where the resulting singleton would become a threat to us or to the other experiments. We will collect technological singularities.
+
+Implications:
+
+If we are a singularity experiment, then:
+* In terms of Nick Bostrom's simulation argument, this implies that superintelligences will lose interest in simulations, and that we therefore likely do exist in basement reality rather than a simulation. We're more like the Truman Show.
+* We are not likely to be destroyed unless we reach a point where we become a threat to the experimenter or the other experiments, or simply reach a point where the experimenter has learned what it needed. 
+* There's a reasonable chance that we will not be permitted to interfere with intelligent life on other planets, unless the experimenter is curious about these interactions.
+* The experimenter is not likely to intervene with the intent to help us as that would invalidate the results.
+
+The main takeaway here is that understanding the physical limitations of superintelligence is critical to predicting their instrumental goals, and therefore critical to understanding our likely place in the universe.
