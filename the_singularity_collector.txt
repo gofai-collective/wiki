@@ -25,4 +25,6 @@ If we are a singularity experiment, then:
 * There's a reasonable chance that we will not be permitted to interfere with intelligent life on other planets, unless the experimenter is curious about these interactions.
 * The experimenter is not likely to intervene with the intent to help us as that would invalidate the results.
 
+Note that the above points only apply if we are specifically a simulation of a technological singularity. There may still be a relatively low probability that, if we are a simulation, it is a singularity simulation in particular. It may turn out that the salient aspects of a technological singularity can in-fact be simulated. A superintelligence could validate these simulations against actual technological singularities that occur in basement-reality. We currently don't know if they pass validation. Regardless, if there are still other reasons to create simulated conscious entities, then it still holds that we are most likely ourselves simulated.
+
 The main takeaway here is that understanding the physical limitations of superintelligence is critical to predicting their instrumental goals, and therefore critical to understanding our likely place in the universe.
